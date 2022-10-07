@@ -5,3 +5,5 @@
 This is a data analysis project on Heart Failure Prediction
 
 Dataset used: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+
+Future Work : Apply various Machine Learning Techniques
